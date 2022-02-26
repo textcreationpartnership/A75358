@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anglia rediviva: a poem on His Majesties most joyfull reception into Enland [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75358</idno>
+            <idno type="STC">Wing A3179</idno>
+            <idno type="STC">Thomason E1029_3</idno>
+            <idno type="STC">ESTC R207817</idno>
+            <idno type="EEBO-CITATION">99866845</idno>
+            <idno type="PROQUEST">99866845</idno>
+            <idno type="VID">119133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119133)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1029[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anglia rediviva: a poem on His Majesties most joyfull reception into Enland [sic].</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Hodgkinsonne for Charles Adams, and are to be sold at the signe of the Talbot in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "June 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119133:1" rendition="simple:additions"/>
+            <p>Anglia Rediviva: A POEM ON HIS MAJESTIES Moſt joyfull Reception INTO ENGLAND.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Hodgkinſonne</hi> for <hi>Charles Adams,</hi> and are to be ſold at the ſigne of the <hi>Talbot</hi> in <hi>Fleetſtreet,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:119133:2"/>
+            <pb n="1" facs="tcp:119133:2"/>
+            <head>Anglia Rediviva, <hi>A Poem on his</hi> MAIESTEIS <hi>moſt joyfull Reception into</hi> England.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>LL, that deſpairing, and deſpair'd of men,</l>
+               <l>When ſuddenly reſtor'd to Health again,</l>
+               <l>Feel at the welcome change; All, that we know</l>
+               <l>Of overwhelming Raviſhments, that grow</l>
+               <l>In the ſwift paſſing through the high extremes</l>
+               <l>Of cold deſpair, into the quickning beams</l>
+               <l>Of full enjoyment, ſcarce makes up the ſumme</l>
+               <l>Of <hi>England's</hi> joy to ſee her Prince at home.</l>
+               <l>As, of the Heav'nly Bodies we inferre</l>
+               <l>Their magnitude from their Eclipſe; And here</l>
+               <l>Below we by the ſhadows meaſure heights;</l>
+               <l>So muſt we calculate the ruinous ſtreights,</l>
+               <l>We were reduc'd unto, before we gueſſe</l>
+               <l>At th' Elevation of our Happineſſe.</l>
+               <l>Torn by the fury of Phanatick winds</l>
+               <l>Up by the roots, poor <hi>Britainy</hi> now finds</l>
+               <l>Her ſelf turn'd Floating Iſland: But her ſhore</l>
+               <l>No ſooner kis't his Royall feet, and wore</l>
+               <l>Their fair impreſſion, when her wav'ring cea'ſt,</l>
+               <l>And ſhe became firme land again; ſo bleſt</l>
+               <pb n="2" facs="tcp:119133:3"/>
+               <l>Upon that ſacred touch, that ſhe grew ſound</l>
+               <l>All on the ſudden, cloſing every wound,</l>
+               <l>That bled ſo long: This healing touch reviv'd</l>
+               <l>Her drooping ſtate, and promiſ'd a long-liv'd</l>
+               <l>Felicity, which nothing els could bring,</l>
+               <l>For her Kings-Evill was to want her King.</l>
+               <l>And all her children (Monſters ſhe not ownes,</l>
+               <l>Though ſuch there be, that with unnaturall frowns,</l>
+               <l>Or falſe ſmiles greet the Triumph of this Day)</l>
+               <l>With full conſent of Hearts and tongues do pay</l>
+               <l>Their Pray'rs, and Loyall duty on their knee.</l>
+               <l>Firſt unto God, then to his Majeſty.</l>
+               <l>Heark, how the mouthes of Canons learn to ſpeak</l>
+               <l>Love and Allegiance; Better ſo to break</l>
+               <l>The willing aire with loud and loyall ſounds,</l>
+               <l>Then be the Inſtruments of death, and wounds.</l>
+               <l>To make our joyes appear, we Bonfires light,</l>
+               <l>As Emblemes of our Love; A flame more bright,</l>
+               <l>That burns, yet leſſens not within our heart.</l>
+               <l>Bells ring, to ſhew the Church muſt have a part</l>
+               <l>In this Dayes Jubile; and that we owne,</l>
+               <l>As a main point of our Religion,</l>
+               <l>Our duty to the King. No Sex, nor Age,</l>
+               <l>But throngs to act their Parts, as on a Stage,</l>
+               <l>Of Homage to their Prince: They rend the skies</l>
+               <l>With ſuch a volley of loud ſhouts, and cries,</l>
+               <l>As if they meant the Inhabitants above</l>
+               <l>Should Hearers be, and witneſſe of their love.</l>
+               <l>But let the preſſing Multitude give roome;</l>
+               <l>Behold, the noble Generall is come</l>
+               <l>With low obeiſance Majeſtie to greet,</l>
+               <l>And lay himſelf down at the Royall feet.</l>
+               <pb n="3" facs="tcp:119133:3"/>
+               <l>This, this is he, whom kinder ſtars have ſent</l>
+               <l>Of all our joyes to be the Inſtrument;</l>
+               <l>He, whom the Heav'ns reſerv'd for ſuch a ſeaſon</l>
+               <l>To reſcue <hi>England,</hi> and diſarme black Treaſon.</l>
+               <l>O, may that horrid Monſter ne're be found</l>
+               <l>To raiſe his head again on Engliſh ground;</l>
+               <l>Down in his native Dungeon let him rore</l>
+               <l>For e're, and wallow in his own foul gore.</l>
+               <l>Long live our <hi>George,</hi> that hath this Dragon ſlain,</l>
+               <l>To cruſh the breed, ſhould any yet remain.</l>
+               <l>What this Knight was that after-times may ſee,</l>
+               <l>I'le draw his Picture for Poſterity,</l>
+               <l>He is all Inſide; Nothing of bark, or ſhell:</l>
+               <l>Made up of ſolid greatneſſe; ſcorns t' excell</l>
+               <l>In a gay formall outſide: One, that can</l>
+               <l>Seem little, and be great within. A Man</l>
+               <l>Only by his high actions underſtood,</l>
+               <l>Born for his Country, and his Soveraigns good.</l>
+               <l>He doth the work, whileſt others ſay fine things;</l>
+               <l>And all our Hopes to an enjoyment brings:</l>
+               <l>Cares not with gilded promiſes to pleaſe,</l>
+               <l>But ſilently contrives our happineſſe.</l>
+               <l>Some hope, ſome fear, ſome cenſure, and ſome raile,</l>
+               <l>He minds them not, but ſtill drives home the Naile.</l>
+               <l>Not the miſtruſt of unbelieving friends,</l>
+               <l>Nor force of open foes obſtruct the ends</l>
+               <l>Nobly prefixt unto his gen'rous mind;</l>
+               <l>He cuts his way through all, makes every wind</l>
+               <l>Serve his well laid Deſigne, untill he bring</l>
+               <l>To this diſtracted Realm Peace, and the King.</l>
+               <l>Him the ſucceeding Ages will admire</l>
+               <l>More then the preſent can: Great heights require</l>
+               <pb n="4" facs="tcp:119133:4"/>
+               <l>Some diſtance to be ſully ſeen: When we</l>
+               <l>Lye blended in forgotten Duſt, ſhall hee</l>
+               <l>Stand a fair Precedent of Loyalty.</l>
+               <l>From this lov'd ſubject I muſt part: My eye</l>
+               <l>Calls me away, ſtruck with a glorious train</l>
+               <l>Of Nobles, haſting to revive again</l>
+               <l>Their tarniſh't Luſtre at the brighter Ray</l>
+               <l>Of Majeſty: ſee, how they humbly lay</l>
+               <l>Themſelves before him, ſo to riſe the higher;</l>
+               <l>They were of ſmoak, they're now pillars of fire.</l>
+               <l>You, that are ſtars of the firſt Magnitude,</l>
+               <l>Have dearly learn't to underſtand your good:</l>
+               <l>Nor raiſe, nor cheriſh by your influence</l>
+               <l>Vapours (though on a ſanctifi'd pretence)</l>
+               <l>That reek from corrupt, ill-affected minds;</l>
+               <l>Rais'd up, they ſoon convert to bluſtring winds,</l>
+               <l>Into black clouds condenſe, and laſt of all</l>
+               <l>On your own heads in ſtormes, and thunder fall.</l>
+               <l>All your tanſcending luſtre of the Crown</l>
+               <l>You hold, as Planets theirs doe of the Sunne.</l>
+               <l>Well may you ſhine in fair Conjunction,</l>
+               <l>But are eclips 't in Oppoſition.</l>
+               <l>Next comes the Houſe of Commons, th' other Leg,</l>
+               <l>On which the Nation ſtands: Theſe doe not beg</l>
+               <l>(Like thoſe, who laſt ſat there) their Soveraign</l>
+               <l>To part with, but to take his Rights again.</l>
+               <l>Nor, like thoſe State-Phanaticks, will they mould</l>
+               <l>New Governments, but reſt upon the old;</l>
+               <l>And in an equall temper keep alive</l>
+               <l>Our Liberty, and his Prerogative.</l>
+               <l>All terms and Articles are baniſh't hence:</l>
+               <l>They're for our Enemies, but not our Prince.</l>
+               <pb n="5" facs="tcp:119133:4"/>
+               <l>I know you are too generous to bring</l>
+               <l>Into the Nation, a fetter'd King,</l>
+               <l>And ſo to change by a falſe curteſie</l>
+               <l>His Baniſhment into Captivity.</l>
+               <l>Have not our Laws already mark't the Bounds</l>
+               <l>Twixt Him, and us? O, do not lay the grounds</l>
+               <l>Of freſh debate, leaſt you unravell all,</l>
+               <l>And we to our late Anarchy doe fall.</l>
+               <l>But what freſh joy is this, that now appears</l>
+               <l>So bright, ſo loud unto my eyes and eares?</l>
+               <l>O 'tis the famous City come to ſee</l>
+               <l>With open hands, large heart, and bended knee</l>
+               <l>Their long-miſt Soveraign; whom to reſtore</l>
+               <l>Their's none have acted, none have ſuffer'd more.</l>
+               <l>You, (when the raging ſword had quite hewn down</l>
+               <l>Both Law, and Law-givers; laid flat the Crown,</l>
+               <l>And brought the ſacred Head — Here I muſt leave,</l>
+               <l>Or the ſad memory will quite bereave</l>
+               <l>This day of all his joy) t'was you, that dar'd</l>
+               <l>Stand in the breach; unarm'd, and unprepar'd,</l>
+               <l>Meeting the violence of an armed force,</l>
+               <l>An Engliſh heart to you was foot and horſe:</l>
+               <l>Your ſtout oppoſing brought them to that ſenſe,</l>
+               <l>That they were ſtarv'd into Obedience.</l>
+               <l>If naked loyalty our ruine ſtop,</l>
+               <l>What may we not from your Militia hope?</l>
+               <l>Still may your Arms the Perſon guard, your Purſe</l>
+               <l>The Royall ſplendor feed; You can't disburſe</l>
+               <l>On higher intereſt, nor make a venter</l>
+               <l>In which more Glory, and more Profit center.</l>
+               <l>So Earth lends Heav'n ſome vapours, which again</l>
+               <l>Are gratefully return'd in fruitfull rain.</l>
+               <pb n="6" facs="tcp:119133:5"/>
+               <l>The World knows not a Monarch, like our own,</l>
+               <l>So ſeaſon'd, ſo prepared for a Throne:</l>
+               <l>Nature hath done her beſt, Fortune her worſt,</l>
+               <l>And both to fit him for us. They are curſt</l>
+               <l>Beyond all puniſhment of Law, that dare</l>
+               <l>Advance a ſullen Thought againſt the Pray'r</l>
+               <l>Pour'd forth by the whole Nation this Day,</l>
+               <l>That long may He Command, and we Obey.</l>
+               <l>And now (Moſt Glorious Prince) in name of all,</l>
+               <l>That Throng to Solemnize this Feſtivall,</l>
+               <l>Give your poor Subject leave humbly t' impart</l>
+               <l>The fervent motions of his Loyall heart.</l>
+               <l>More flouriſhing than <hi>May</hi> I wiſh your Raign</l>
+               <l>(The Moneth, that gave you firſt, and now again</l>
+               <l>Reſtores you to us); And that Heaven a Bride</l>
+               <l>As fruitfull too may ſuddenly provide.</l>
+               <l>That you Out-live the Oldeſt, and out doe</l>
+               <l>The beſt of former Kings; That you may know</l>
+               <l>No ſorrows, but what are already paſt,</l>
+               <l>To give your preſent Joy the higher Taſte.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
